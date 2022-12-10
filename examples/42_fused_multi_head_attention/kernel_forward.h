@@ -7,6 +7,7 @@
 
 #include <cmath>
 #include <vector>
+#include <iostream>
 
 #include "cutlass/bfloat16.h"
 #include "cutlass/gemm/gemm.h"
